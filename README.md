@@ -10,7 +10,7 @@ To open all our favourite applications with the help of custom short-cut keys. T
 
 * Fork this repo
 * Clone this repo in your local machine.
-* Add your code to the "shortcut_key.py" file.
+* Add your code to the "test.py" file.
 * Add your changes to staging area (git add .)
 * Commit your code (git commit -m "message")
 * Push your code.
